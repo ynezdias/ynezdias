@@ -1,8 +1,7 @@
-![MasterHead]([https://www.paragyte.com/img/React_Banner.png](https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2EP14mWkbx9sq03nWnRSGT/f1d22d88bb5dde030275f9520c0f2e92/React_YT_Thumbnail.png))
 
 <h1 align="center">Hi 👋, I'm Ynez Dias</h1>
 <h3 align="center">Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynezdias&label=Profile%20views&color=0e75b6&style=flat" alt="ynezdias" /> </p>
 
