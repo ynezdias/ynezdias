@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynezdias&label=Profile%20views&color=0e75b6&style=flat" alt="ynezdias" /> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **Web3 Talent Chain**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Python**
 
