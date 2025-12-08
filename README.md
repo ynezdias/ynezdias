@@ -19,7 +19,7 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="mailto:diasynez5@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/ynez-dias/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+  <a href="[https://www.linkedin.com/in/ynez-dias/](https://www.linkedin.com/in/ynez-dias-6b5690226/)" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ---
