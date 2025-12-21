@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <strong>Ynez Dias</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Ynez Dias</strong> 👋</h1>
 <h3 align="center">Computer Science Graduate Student • Software Developer • AI & ML Enthusiast</h3>
 
 <p align="center">
