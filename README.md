@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ynez%20Dias&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,14,20,24&height=150&section=header&text=Ynez%20Dias&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <br/>
 
@@ -47,10 +47,6 @@ class YnezDias:
       <sub><b>OpenAI API</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br/>
       <sub><b>Scikit-learn</b></sub>
     </td>
@@ -61,18 +57,12 @@ class YnezDias:
   </tr>
 </table>
 
-> **LLM Stack:** LangChain · LangGraph · LangSmith · OpenAI · Anthropic Claude · HuggingFace Transformers · Vector Stores (FAISS, Chroma, Pinecone)
-
 ---
 
 ## ⚙️ Data Engineering
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.worldvectorlogo.com/logos/airflow.svg" width="45"/><br/>
-      <sub><b>Airflow</b></sub>
-    </td>
     <td align="center" width="110">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="55"/><br/>
       <sub><b>Apache Spark</b></sub>
@@ -86,18 +76,11 @@ class YnezDias:
       <sub><b>Pandas</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/1300251?s=200&v=4" width="45"/><br/>
-      <sub><b>dbt</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="45"/><br/>
       <sub><b>Snowflake</b></sub>
     </td>
   </tr>
 </table>
-
-> **Pipeline Stack:** Airflow · Apache Spark · Kafka · dbt · Snowflake · ETL/ELT · Data Warehousing · Stream Processing
-
 ---
 
 ## 🗄️ Databases & Storage
@@ -119,10 +102,6 @@ class YnezDias:
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>
       <sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="45"/><br/>
-      <sub><b>SQLite</b></sub>
     </td>
   </tr>
 </table>
@@ -152,10 +131,6 @@ class YnezDias:
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/><br/>
       <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/><br/>
-      <sub><b>Bash</b></sub>
     </td>
   </tr>
 </table>
@@ -189,35 +164,6 @@ class YnezDias:
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/><br/>
       <sub><b>Django</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## ☁️ DevOps & Cloud
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/><br/>
-      <sub><b>Kubernetes</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45"/><br/>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/><br/>
-      <sub><b>GCP</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>
-      <sub><b>GitHub Actions</b></sub>
     </td>
   </tr>
 </table>
