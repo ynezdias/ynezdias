@@ -57,8 +57,6 @@ class YnezDias:
   </tr>
 </table>
 
----
-
 ## ⚙️ Data Engineering
 
 <table>
